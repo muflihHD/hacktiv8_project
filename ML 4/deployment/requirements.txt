@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+feature_engine
+scikit-learn==1.2.2
+tensorflow
